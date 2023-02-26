@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 
 - [x] Users are able to see a customized app icon and launch screen
 - [x] Your app should work for any screen size and orientation using AutoLayout constraints
-  - [x]
+- [x] 
 - [x] Users are able to see at least 3 context items
 - [x] Users are able to tap into each context item and see detail view contains information about each item (title, description, picture if applicable, etc.)
  
@@ -35,7 +35,7 @@ GIF created with [EZGIF.COM](https://ezgif.com/video-to-gif/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Setting the AutoLayout constraints so that the app looks and functions well for all screens is challenging.
 
 ## License
 
